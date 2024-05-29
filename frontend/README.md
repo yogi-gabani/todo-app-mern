@@ -7,7 +7,7 @@ Clone this repo:
 
 Go to project directory: 
 ```bash
-  cd todo-app-mern
+  cd todo-app-mern/frontend
 ```
 
 Install Dependency:
